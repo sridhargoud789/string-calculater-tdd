@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.production
+.env.staging
+logs
+src/private_key_cf.pem
+android
+ios
+# Expo
+.expo
+dist/
+web-build/
